@@ -16,7 +16,7 @@ h1 {
     border: 1px solid darkorchid;
     margin: 10px; 		/* marge externe */
     padding: 10px; 		/* marge interne */
-    background: white;
+    background: rgba(0,0,0,0.5);
 }
 
 img{
@@ -32,6 +32,7 @@ img{
 .center {
     text-align: center;
 }
+
 
 
 
