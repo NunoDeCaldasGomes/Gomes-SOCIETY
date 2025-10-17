@@ -11,6 +11,11 @@ h1 {
 }
 
 .fieldset {
+   width: 400px;
+    position: relative;
+    border: 1px solid darkorchid;
+    margin: 10px; 		/* marge externe */
+    padding: 10px; 		/* marge interne */
     background: white;
 }
 
@@ -27,6 +32,7 @@ img{
 .center {
     text-align: center;
 }
+
 
 
 
