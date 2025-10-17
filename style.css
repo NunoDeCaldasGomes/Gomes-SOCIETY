@@ -24,7 +24,7 @@ img{
     box-shadow: 0 4px 12px darkorchid;
 }
 
-h1 {
+.center {
     text-align: center;
 }
 
@@ -39,4 +39,5 @@ button {
     transition-duration: 0.4s;
     cursor: pointer;
     border: 2px solid transparent;
+
 }
