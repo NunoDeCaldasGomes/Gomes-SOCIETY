@@ -10,7 +10,7 @@ h1 {
     
 }
 
-.fieldset {
+.fond {
     width: 400px;
     position: relative;
     border: 1px solid darkorchid;
@@ -32,6 +32,7 @@ img{
 .center {
     text-align: center;
 }
+
 
 
 
