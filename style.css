@@ -10,7 +10,7 @@ h1 {
     
 }
 
-fieldset {
+.fieldset {
     background: white;
 }
 
@@ -27,6 +27,7 @@ img{
 .center {
     text-align: center;
 }
+
 
 
 
