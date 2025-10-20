@@ -18,6 +18,12 @@ h1 {
     margin: 10px; 		/* marge externe */
     padding: 10px; 		/* marge interne */
     background: rgba(0,0,0,0.5);
+
+fieldset {
+    border: 1px solid darkorchid;
+    margin: 10px; 		/* marge externe */
+    padding: 10px; 		/* marge interne */
+    background: rgba(0,0,0,0.5);
 }
 
 img{
@@ -33,6 +39,7 @@ img{
 .center {
     text-align: center;
 }
+
 
 
 
